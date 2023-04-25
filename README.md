@@ -1,6 +1,6 @@
 # KNX Telegraf Config Generator
 
-This project automates the generation of configuration for Telegraf's [KNX Input Plugin](https://github.com/influxdata/telegraf/blob/release-1.25/plugins/inputs/knx_listener/README.md), utilizing your KNX project directly, in order to easily ingest metrics from KNX event bus and build real-time dashboards on top of Grafana or InfluxDB UI.
+This project automates the generation of configuration for Telegraf's [KNX Input Plugin](https://github.com/influxdata/telegraf/blob/master/plugins/inputs/knx_listener/README.md), utilizing your KNX project directly, in order to easily ingest metrics from KNX event bus and build real-time dashboards on top of Grafana or InfluxDB UI.
 
 ## Why
 
